@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c2d5e2ef085850547be2eb093c530dd9
+timeCreated: 1505398345
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mega_Man_Monster_2_0
+    21300002: Mega_Man_Monster_2_1
+    21300004: Mega_Man_Monster_2_2
+    21300006: Mega_Man_Monster_2_3
+    21300008: Mega_Man_Monster_2_4
+    21300010: Mega_Man_Monster_2_5
+    21300012: Mega_Man_Monster_2_6
+    21300014: Mega_Man_Monster_2_7
+    21300016: Mega_Man_Monster_2_8
+    21300018: Mega_Man_Monster_2_9
+    21300020: Mega_Man_Monster_2_10
+    21300022: Mega_Man_Monster_2_11
+    21300024: Mega_Man_Monster_2_12
+    21300026: Mega_Man_Monster_2_13
+    21300028: Mega_Man_Monster_2_14
+    21300030: Mega_Man_Monster_2_15
+    21300032: Mega_Man_Monster_2_16
+    21300034: Mega_Man_Monster_2_17
+    21300036: Mega_Man_Monster_2_20
+    21300038: Mega_Man_Monster_2_21
+    21300040: Mega_Man_Monster_2_22
+    21300042: Mega_Man_Monster_2_24
+    21300044: Mega_Man_Monster_2_25
+    21300046: Mega_Man_Monster_2_26
+    21300048: Mega_Man_Monster_2_27
+    21300050: Mega_Man_Monster_2_28
+    21300052: Mega_Man_Monster_2_29
+    21300054: Mega_Man_Monster_2_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 24
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 24
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 23
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 28
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 104
+        width: 23
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 24
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 101
+        width: 24
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 100
+        width: 22
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 102
+        width: 14
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 102
+        width: 9
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 24
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 24
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 32
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 42
+        width: 32
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 71
+        width: 24
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 24
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74
+        width: 16
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 74
+        width: 16
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 16
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 16
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 16
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 5
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 32
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 13
+        width: 32
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 31
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 32
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 32
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mega_Man_Monster_2_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 32
+        height: 31
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 32a318316ac58244ababbd96d08a46e1
+timeCreated: 1505393473
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Samurai Shodown IV_ Amakus_3
+    21300002: Samurai Shodown IV_ Amakus_4
+    21300004: Samurai Shodown IV_ Amakus_5
+    21300006: Samurai Shodown IV_ Amakus_6
+    21300008: Samurai Shodown IV_ Amakus_7
+    21300010: Samurai Shodown IV_ Amakus_8
+    21300012: Samurai Shodown IV_ Amakus_9
+    21300014: Samurai Shodown IV_ Amakus_10
+    21300016: Samurai Shodown IV_ Amakus_11
+    21300018: Samurai Shodown IV_ Amakus_12
+    21300020: Samurai Shodown IV_ Amakus_13
+    21300022: Samurai Shodown IV_ Amakus_14
+    21300024: Samurai Shodown IV_ Amakus_15
+    21300026: Samurai Shodown IV_ Amakus_16
+    21300028: Samurai Shodown IV_ Amakus_17
+    21300030: Samurai Shodown IV_ Amakus_18
+    21300032: Samurai Shodown IV_ Amakus_19
+    21300034: Samurai Shodown IV_ Amakus_20
+    21300036: Samurai Shodown IV_ Amakus_21
+    21300038: Samurai Shodown IV_ Amakus_22
+    21300040: Samurai Shodown IV_ Amakus_23
+    21300042: Samurai Shodown IV_ Amakus_24
+    21300044: Samurai Shodown IV_ Amakus_25
+    21300046: Samurai Shodown IV_ Amakus_26
+    21300048: Samurai Shodown IV_ Amakus_27
+    21300050: Samurai Shodown IV_ Amakus_28
+    21300052: Samurai Shodown IV_ Amakus_29
+    21300054: Samurai Shodown IV_ Amakus_30
+    21300056: Samurai Shodown IV_ Amakus_31
+    21300058: Samurai Shodown IV_ Amakus_32
+    21300060: Samurai Shodown IV_ Amakus_33
+    21300062: Samurai Shodown IV_ Amakus_34
+    21300064: Samurai Shodown IV_ Amakus_35
+    21300066: Samurai Shodown IV_ Amakus_36
+    21300068: Samurai Shodown IV_ Amakus_37
+    21300070: Samurai Shodown IV_ Amakus_38
+    21300072: Samurai Shodown IV_ Amakus_39
+    21300074: Samurai Shodown IV_ Amakus_40
+    21300076: Samurai Shodown IV_ Amakus_41
+    21300078: Samurai Shodown IV_ Amakus_42
+    21300080: Samurai Shodown IV_ Amakus_43
+    21300082: Samurai Shodown IV_ Amakus_44
+    21300084: Samurai Shodown IV_ Amakus_45
+    21300086: Samurai Shodown IV_ Amakus_46
+    21300088: Samurai Shodown IV_ Amakus_47
+    21300090: Samurai Shodown IV_ Amakus_48
+    21300092: Samurai Shodown IV_ Amakus_49
+    21300094: Samurai Shodown IV_ Amakus_50
+    21300096: Samurai Shodown IV_ Amakus_51
+    21300098: Samurai Shodown IV_ Amakus_52
+    21300100: Samurai Shodown IV_ Amakus_53
+    21300102: Samurai Shodown IV_ Amakus_54
+    21300104: Samurai Shodown IV_ Amakus_55
+    21300106: Samurai Shodown IV_ Amakus_56
+    21300108: Samurai Shodown IV_ Amakus_57
+    21300110: Samurai Shodown IV_ Amakus_58
+    21300112: Samurai Shodown IV_ Amakus_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1503
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1503
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1503
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1389
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1389
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1389
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1389
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1389
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1390
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1274
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1274
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1274
+        width: 123
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1274
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1315
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1152
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1152
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1153
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1153
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1035
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1033
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1020
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1017
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 873
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 870
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 865
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 862
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 867
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 753
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 753
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 750
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 750
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 751
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 629
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_37
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 735
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 628
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 628
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 624
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 507
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 502
+        width: 191
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 499
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_44
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 499
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 373
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 380
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 376
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 363
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 249
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 242
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 242
+        width: 125
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_54
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 241
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 112
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 114
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Samurai Shodown IV_ Amakus_59
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 113
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
